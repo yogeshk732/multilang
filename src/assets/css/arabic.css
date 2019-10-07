@@ -1,0 +1,800 @@
+.middle-box {
+    margin: 61px 270px 0 0px;
+}
+
+.activity-img {
+    right: -18px;
+    left: auto;
+}
+
+.sidebar {
+    right: 0;
+}
+
+.message-box .header .header-dropdown {
+    position: absolute;
+    top: -5px;
+    left: 0;
+    right: auto;
+}
+
+.messages-wrapper .message {
+    text-align: right;
+}
+
+.search-wrapper .input-holder .search-icon {
+    float: left;
+}
+
+.search-wrapper .close {
+    left: 8px;
+    right: auto !important;
+}
+
+.search-wrapper .input-holder .search-input {
+    padding: 0px 20px;
+}
+
+.sidebar .menu .list {
+    padding-right: 0;
+}
+
+.sidebar .menu .list i.material-icons {
+    padding-right: 0;
+}
+
+.sidebar .menu .list .ml-menu {
+    padding-right: 43px;
+}
+
+.sidebar .menu .list .ml-menu li ul {
+    padding-right: 0;
+}
+
+ul.list li .menu-toggle::after,
+.sidebar .menu ul.list li .menu-toggle::before {
+    left: 15px;
+    right: auto;
+}
+
+.sidebar .menu .list .menu-toggle::after,
+.sidebar .menu .list .menu-toggle::before {
+    right: auto;
+    left: 15px !important;
+}
+
+.sidebar .menu .list .ml-menu span {
+    margin: 0 6px;
+}
+
+.main-board-options {
+    float: left;
+    margin-left: 15px !important;
+}
+
+#main-boards-wrapper li ul li.active a.toggled:not(.menu-toggle),
+#private-boards-wrapper li ul li.active a.toggled:not(.menu-toggle),
+#shareable-boards-wrapper li ul li.active a.toggled:not(.menu-toggle),
+#main-boards-wrapper li ul li.hover a.toggled:not(.menu-toggle),
+#private-boards-wrapper li ul li.hover a.toggled:not(.menu-toggle),
+#shareable-boards-wrapper li ul li.hover a.toggled:not(.menu-toggle) {
+    display: block;
+    padding-left: 0px !important;
+    margin-left: 0px !important;
+    border-radius: 0 25px 25px 0;
+    font-size: 14px;
+    width: 100% !important;
+}
+
+.sidebar .menu .list .ml-menu li .ml-menu .ml-menu li a:hover {
+    width: 100% !important;
+    border-radius: 0 25px 25px 0;
+}
+
+.ml-menu li {
+    padding-left: 0;
+}
+
+.dropdown-menu>li>a i.material-icons {
+    float: right;
+    margin-left: 7px;
+    margin-top: 2px;
+    font-size: 20px;
+}
+
+.submenu::after {
+    content: "\f104";
+    text-align: right;
+    left: 5px;
+    top: 8px;
+    right: auto;
+}
+
+.dropdown-menu>li>a {
+    padding: 2px 15px;
+}
+
+.child-menu.dropdown-menu {
+    right: 149px;
+    float: right;
+}
+
+.chatbox-holder .message-send {
+    cursor: pointer;
+    height: 20px;
+    margin-top: 6px;
+    margin-left: 10px;
+    color: #3f6ad8;
+    direction: ltr;
+    text-align: right;
+}
+
+.right-side-bar-filter {
+    left: -15px;
+    right: auto;
+}
+
+.open-right-widget-box .right-side-bar-filter {
+    left: 15px;
+    justify-content: center;
+    right: auto;
+}
+
+.input-group-addon:first-child {
+    border-left: 0px;
+    border-right: none;
+}
+
+.right-side-bar-filter {
+    transform: rotate(180deg);
+}
+
+.activity-img {
+    transform: rotate(255deg);
+}
+
+.user-name-txt {
+    margin-left: 10px;
+    float: right;
+}
+
+.input_bx p {
+    text-align: right;
+    font-size: 14px;
+}
+
+.message-body-wrapper {
+    margin-right: 10px;
+}
+
+.reply-box .reply_btn_box {
+    width: 100%;
+    margin: 0;
+}
+
+.reply_btn_box {
+    text-align: left;
+    widows: 100%;
+}
+
+.sep_box.m-l-20 {
+    margin: 0;
+}
+
+.name-cell-text {
+    padding-right: 10px;
+}
+
+.name-cell-component {
+    padding: 0;
+}
+
+.bg-pink .new-pulse-col {
+    border-left: none;
+}
+
+.add-pulse-component .add-pulse-input {
+    text-align: right;
+}
+
+.add-pulse-component .add-pulse-button {
+    left: 18px;
+    right: auto;
+}
+
+.add-field-width {
+    width: 97%;
+    margin-right: 0px;
+}
+
+.board-description.text-placeholder.editable-board-field {
+    text-align: right;
+}
+
+.image.clickable::before {
+    left: 0px;
+    right: 1px;
+    background: #dee2e6;
+}
+
+#board-context-menu {
+    left: auto !important;
+    max-width: 221px;
+    right: 0;
+}
+
+ul.custom-context-menu {
+    border-radius: 0%;
+    right: auto;
+}
+
+.ds-editable-component,
+.ds-editable-input,
+.ds-editable-component.renaming-column {
+    text-align: right !important;
+}
+
+.form-control.filter-search {
+    padding-right: 15px;
+}
+
+.filter-board-box .dropbtn .dropdown button .material-icons {
+    margin-right: 0;
+    margin-left: 5px;
+}
+
+.filter-board-box .collapse-group-toggle-component {
+    margin-left: 15px;
+    margin-right: 5px;
+}
+
+.card.message-box.viewed .body .c-tooltip.active {
+    left: auto !important;
+    right: 0 !important;
+}
+
+.right-sidebar .c-tooltip.active {
+    left: 0 !important;
+    right: auto !important;
+    /* z-index: 999999 !important;}  */
+}
+
+.header-dropdown.messages-switch-warpper {
+    padding-top: 15px;
+}
+
+.team_item {
+    text-align: right;
+}
+
+.open-new-button {
+    left: 20px;
+    right: auto;
+}
+
+.close-button {
+    margin-right: 15px;
+}
+
+.create-event,
+.upload-file,
+.add-btn {
+    margin-left: 15px;
+}
+
+.folder-icon {
+    margin-right: 0;
+    margin-left: 15px !important;
+}
+
+.file-left-menu {
+    margin: 15px 25px 15px 0px;
+}
+
+.icon-size {
+    margin-right: 0;
+    margin-left: 15px;
+}
+
+.input-group-addon {
+    padding-right: 0;
+}
+
+.card .header .header-dropdown.open {
+    padding-left: 0;
+    border-right: 1px solid #e3e1e1;
+    padding-right: 10px !important;
+    border-left: none;
+    margin-right: 15px;
+}
+
+.edit_profile_box {
+    right: auto;
+}
+
+.dropdown.open ul li {
+    border-right: none !important;
+    padding-right: 0px !important;
+    margin-right: 0px !important;
+}
+
+.p-l-15 {
+    padding-right: 15px;
+}
+
+.language {
+    margin-right: 0;
+    margin-left: 15px;
+}
+
+.image.clickable::before {
+    position: absolute;
+    left: -3px;
+    top: 50%;
+    background: #dee2e6;
+    width: 1px;
+    height: 30px;
+    margin-top: -15px;
+    content: "";
+}
+
+.team-content .image-area {
+    float: right;
+}
+
+.intl-tel-input {
+    direction: ltr;
+    width: 100%;
+}
+
+.intl-tel-input.allow-dropdown input[type="text"] {
+    padding-left: 0px !important;
+}
+
+.notification_menu_action_container {
+    position: absolute;
+    top: 6px;
+    right: auto;
+    left: 6px;
+}
+
+.dropdown-menu ul.menu .menu-info {
+    display: inline-block;
+    position: relative;
+    top: 3px;
+    left: auto;
+    right: 10px;
+}
+
+.card .header .header-dropdown .dropdown {
+    display: inline-block;
+    line-height: 10px;
+}
+
+.datepicker.datepicker-dropdown.dropdown-menu {
+    margin-top: 0 !important;
+    right: auto;
+    left: auto;
+    float: left;
+    text-align: right;
+}
+
+#change-calender-date .datepicker {
+    margin-right: 36px;
+}
+
+.right-sidebar.open {
+    left: 0;
+    right: auto;
+}
+
+.update-on-board .dropdown-menu.pull-right.drop_bx {
+    right: auto;
+    left: 0;
+}
+
+.card_footer .header-dropdown li {}
+
+.card .header .header-dropdown li:last-child {}
+
+#drag-task-message {
+    left: auto;
+    right: 0;
+}
+
+.edit-reply-box {
+    right: auto;
+    left: 10px;
+}
+
+.add-notes {
+    justify-content: right;
+}
+
+.group-header-component .table-col .dropdown-menu.pull-right {
+    right: auto;
+    left: 0;
+}
+
+.close-container {
+    right: 12px;
+    left: auto;
+}
+
+.inline-box .project-name-heading .ds-editable-input {
+    text-align: right;
+    float: right;
+}
+
+.user-info {
+    margin-top: 6px;
+    margin-right: 2px;
+}
+
+.page-loader-wrapper {
+    direction: ltr;
+}
+
+.select2-search__field {
+    text-align: right;
+    padding-right: 15px !important;
+}
+
+.select2-container {
+    text-align: right;
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__rendered li {
+    float: right;
+}
+
+.message-loader-wrapper {
+    direction: ltr;
+}
+
+.event-date-inner {
+    text-align: right !important;
+}
+
+.dropdown-menu i.fa {
+    padding-left: 5px;
+    text-align: right;
+    padding-right: 5px;
+}
+
+#board-folder-context-menu {
+    right: 15px !important;
+    left: auto !important;
+}
+
+.btn-group.board-action {
+    position: absolute;
+    right: auto;
+    left: 0;
+}
+
+.login-box .text-center {
+    text-align: right;
+}
+
+.input-group .form-line+.input-group-addon {
+    border: none;
+}
+
+.input-group .form-line+.input-group-addon {
+    padding-right: 10px;
+    padding-left: 0;
+}
+
+.files-navbar li {
+    border-radius: 0 20px 20px 0;
+}
+
+.sidebar .badge {
+    right: auto;
+    left: 10px;
+}
+
+.dropdown-menu ul.menu {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.file-manage-container {
+    overflow-x: hidden;
+}
+
+.event-editable-box .form-control.date.start {
+    float: right;
+}
+
+.detail-right-side-bar-open [type="checkbox"]:not(:checked),
+.detail-right-side-bar-open [type="checkbox"]:checked {
+    left: 0 !important;
+}
+
+
+/*                         
+.right-sidebar .c-tooltip.active {
+    right: 0 !important;
+    left: 0 !important;
+} */
+
+#view-event-wrapper {
+    overflow: hidden;
+}
+
+#pending-event-wrapper {
+    overflow: hidden;
+}
+
+#events-carousel .carousel-control.right {
+    left: 0;
+    right: auto;
+    width: auto;
+    top: 4%;
+}
+
+#events-carousel .carousel-control.left {
+    left: -58px;
+    top: 36%;
+    right: auto;
+}
+
+[type="checkbox"]:not(:checked),
+[type="checkbox"]:checked {
+    position: absolute;
+    left: 0;
+    opacity: 0;
+}
+
+.nav.nav-tabs.vertical-nav-tabs.tabs-left li {
+    float: none !important;
+}
+
+.form-group .form-line.focused .form-label {
+    top: -10px;
+    right: 0;
+    font-size: 12px;
+}
+
+.notes-list-not-empty .keep-note-container .header-dropdown {
+    left: 0;
+}
+
+.name-field-width-first {
+    margin-right: 0px;
+}
+
+.keep-note-container .header-dropdown.pull-right {
+    left: 0 !important;
+    text-align: left;
+}
+
+.filter-board-list {
+    padding-right: 15px;
+}
+
+.search-input.tt-input {
+    text-align: right;
+    width: 450px !important;
+}
+
+.search-input.tt-hint {
+    position: absolute;
+    top: 0px;
+    right: 0px !important;
+    border-color: transparent;
+    box-shadow: none;
+    opacity: 1;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0% 0%;
+    text-align: right !important;
+}
+
+.tt-menu {
+    right: 0px;
+    left: auto;
+}
+
+.twitter-typeahead {
+    left: 0 !important;
+}
+
+.search-wrapper.active .twitter-typeahead {
+    left: auto;
+    right: 0 !important;
+}
+
+.teams-wrapper .btn-block {
+    text-align: center;
+}
+
+.tt-input,
+.tt-hint {
+    text-align: right;
+}
+
+form p {
+    text-align: right;
+}
+
+.action-button-wrapper .attachment_box ul li {
+    display: inline-block;
+    padding-left: 0;
+}
+
+.message-box .attachment_box {
+    margin-left: 0px !important;
+}
+
+.action-button-wrapper {
+    white-space: nowrap;
+    padding: 0;
+}
+
+.select2-result-repository__avatar {
+    float: right;
+    margin-left: 10px;
+}
+
+.reply-box .c-tooltip.active {
+    left: 0 !important;
+    right: auto !important;
+}
+
+.edit-message-reply-wrapper .sep_box.m-l-40 {
+    margin-left: 0px !important;
+}
+
+.sidebar .menu .list a {
+    padding-right: 37px;
+    padding-left: 15px;
+}
+
+.ml-menu {
+    padding-right: 0 !important;
+}
+
+.filter-drop.dropdown-menu .list-group-item.active,
+.filter-drop.dropdown-menu:hover .list-group-item {
+    border-radius: 0 25px 25px 0;
+}
+
+@media only screen and (max-width: 767px) {
+    #navbar-collapse {
+        position: absolute;
+        right: auto;
+        left: 30px;
+        top: 9px;
+        border: none;
+    }
+}
+
+[type="radio"]:not(:checked),
+[type="radio"]:checked {
+    position: absolute;
+    left: 0;
+    opacity: 0;
+}
+
+.input_bx {
+    width: 100%;
+    margin: 0 15px;
+    height: auto;
+    padding-right: 0px;
+}
+
+.navbar {
+    right: 0;
+    left: auto;
+}
+
+.team-content {
+    border-right: 1px solid #DDE4E9;
+    border-left: none;
+}
+
+.nav.navbar-nav.navbar-right .dropdown.open .dropdown-menu {
+    left: 15px;
+    right: auto;
+}
+
+.slimScrollBar {
+    left: 1px !important;
+    right: auto !important;
+}
+
+.form-group .form-line .form-label {
+    left: auto;
+    right: 0;
+}
+
+.name-cell-component .edit-indicator {
+    left: -15px;
+    right: auto;
+}
+
+.ds-text-component .ds-editable-input {
+    text-align: right !important;
+}
+
+.card .body {
+    padding: 20px 20px 10px 10px;
+}
+
+.waves-effect.waves-block.custom-context-menu-item {
+    padding-right: 0;
+}
+
+.chat-user-container .user-status {
+    position: absolute;
+    bottom: 5px;
+    right: auto;
+    left: -5px;
+}
+
+.chatbox-holder {
+    right: auto;
+    left: 100px;
+}
+
+.chatbox-holder .sender-message-box-holder .chatbox-avatar {
+    float: right;
+}
+
+
+/* #profile-context-menu {
+    left: auto !important;
+} */
+
+.recycle-bin-item .archive_board_item {
+    padding-right: 13px;
+}
+
+.widget-message-conter {
+    left: 8px;
+}
+
+#profile-context-menu .fa {
+    margin-left: 7px;
+    margin-right: 0;
+}
+
+.dropdown-menu>li>a i.material-icons {
+    margin-right: 2px;
+}
+
+.user-status {
+    float: left;
+}
+
+.dropdown-menu>li>a {
+    padding: 4px 15px;
+}
+
+ul.custom-context-menu {
+    border-radius: 0%;
+    right: auto;
+    border-radius: 4px;
+}
+
+.expandable-right-panel .chatbox-holder {
+    left: 26%;
+    right: auto;
+}
+
+.chatbox-holder .popup-close-btn {
+    float: left;
+}
+
+.admin-middle-box {
+    margin: 61px 130px 0 0px;
+}
+
+#customization-tab .form-horizontal .control-label {
+    text-align: right;
+}
+
+.admin-sidebar .menu .list a {
+    padding-right: 0;
+}

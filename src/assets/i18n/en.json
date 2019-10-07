@@ -1,0 +1,22 @@
+{
+    "WAIT":"Please wait...",
+    "LOGIN": {
+        "INPUT_EMAIL": "Email Address",
+        "INPUT_PASSWORD": "Password",
+        "FORGOT_PASSWORD": "Forgot Password?",
+        "LOGIN_BTN": "Login"
+    },
+    "FORM": {
+        "VALIDATION": {
+            "EMAIL_REQUIRED": "Email is required.",
+            "EMAIL_VALID": "Please enter a valid email address.",
+            "PASSWORD_REQUIRED": "Password is required."            
+        }
+    },
+    "FORGOT_PASSWORD":{
+        "TITLE":"Enter your email address that you used to register. We'll send you an email with your username and a link to reset your password.",
+        "INPUT_EMAIL": "Email Address",
+        "RESET_BTN": "Reset My Password",
+        "SIGNIN_BTN": "Sign In"
+    }
+}

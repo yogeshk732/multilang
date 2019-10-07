@@ -1,0 +1,43 @@
+#c-notifications {
+    position: fixed;
+    top: 50px;
+    right: 30px;
+    max-width: 450px;
+    z-index: 9999999;
+}
+
+.c-notification-wrapper {
+    max-width: 450px;
+    min-width: 300px;
+    background-color: #f8f8f8;
+    color: #3B3646;
+    border-radius: 5px;
+    box-shadow: 0 6px 6px rgba(0, 0, 0, 0.25);
+    font-family: system-ui;
+    margin-bottom: 5px;
+}
+
+.c-notification-wrapper h4 {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    margin: 0;
+    padding: 15px 15px 0 15px;
+}
+
+.c-notification-wrapper h4 .close-cnotification {
+    font-size: 17px;
+    float: right;
+    cursor: pointer;
+}
+
+.c-notification-wrapper h4 .close-cnotification:hover {
+    background-color: #00000049;
+}
+
+.c-notification-wrapper .notification-wrapper {
+    font-size: 12px;
+    line-height: 1.5em;
+    padding: 15px;
+    cursor: context-menu;
+}

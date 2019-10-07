@@ -1,0 +1,7 @@
+{
+    "LOGIN": {
+        "INPUT_EMAIL": "البريد الإلكتروني",
+        "INPUT_PASSWORD": "كلمة المرور",
+        "FORGOT_PASSWORD": "نسيت كلمة المرور؟"
+    }
+}

@@ -1,0 +1,128 @@
+.login-page {
+    /* background-image: linear-gradient(to right, #1a2980 0%, #26d0ce 100%); */
+}
+
+.hide {
+    display: none;
+}
+
+.clickable {
+    cursor: pointer;
+}
+
+.custom-loader {
+    border: 2px dotted #ffffff;
+    border-radius: 100%;
+    width: 20px;
+    height: 20px;
+    animation: spin 1s linear infinite;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+
+.boarder-deep-purple .custom-loader {
+    border-color: #764dbe;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.sidebar .menu .list .create-btn i.material-icons {
+    margin-top: 0px;
+}
+
+
+/* *[class*="bg-"]:hover, *[class*="bg-"]:focus {
+    color: #fff;
+} */
+
+#leftsidebar ul.list>li {
+    border-bottom: 1px solid #ddd;
+}
+
+#leftsidebar ul.list>li:last-child {
+    border: 0px;
+}
+
+.sidebar .menu .list a span {
+    font-weight: normal;
+    font-size: 20px;
+}
+
+.sidebar .menu .list i.material-icons {
+    margin-top: 0px;
+}
+
+.sidebar .menu ul.list>li>a>i.material-icons {
+    margin-top: 10px;
+}
+
+.alert.alert-success {
+    background-color: #38c172 !important;
+}
+
+.alert.alert-danger {
+    background-color: #e3342f !important;
+}
+
+.alert.alert-info {
+    background-color: #3490dc !important;
+}
+
+.alert.alert-warning {
+    background-color: #f6993f !important;
+}
+
+.circle-picker-wrapper .btn-circle {
+    border: 1px solid transparent;
+    width: 25px;
+    height: 25px;
+}
+
+.circle-picker-wrapper .btn-circle.selected,
+.circle-picker-wrapper .btn-circle:hover {
+    border: 1px solid #000000;
+}
+
+.login-page.wide-width {
+    max-width: 660px;
+}
+
+.center-img img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.login-page .login-box .card {
+    border-radius: 10px;
+}
+
+.login-box .row {
+    display: flex;
+    align-items: center;
+}
+
+.login-box #login-submit {
+    width: 100px;
+    background-color: #3F6AD8;
+}
+
+.login-box .form-group .form-control {
+    padding-left: 10px;
+}
+
+.login-box .bg-teal {
+    background-color: #eca306 !important;
+}
+
+.login-page {
+    margin: 10% auto;
+}
