@@ -1,0 +1,38 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+     "baseUrl": "./src",
+       "paths": {
+         "@env/*": ["environments/*"],
+         "@services/*": ["app/services/*"],
+         "@route/*": ["app/routing/*"],
+         "@layout/*": ["app/layout/*"],
+         "@appComponent/*": ["app/app.component/*"],
+         "@commonComponent/*": ["app/common-components/*"],
+         "@component/*": ["app/components/*"],
+         "@library/*": ["app/library/*"],
+         "@pipe/*": ["app/pipes/*"],
+         "@directive/*": ["app/directives/*"]
+       },
+    "outDir": "./dist/eyenak",
+    "sourceMap": true,
+    "declaration": false,
+    "downlevelIteration": true,
+    "experimentalDecorators": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "importHelpers": true,
+    "target": "es2015",
+    "typeRoots": [
+      "node_modules/@types"
+    ],
+    "lib": [
+      "es2018",
+      "dom"
+    ]
+  },
+  "angularCompilerOptions": {
+    "fullTemplateTypeCheck": true,
+    "strictInjectionParameters": true
+  }
+}
